@@ -10,8 +10,6 @@ name: Jose Luis Gastelum I.
 title: Junior
 email: joseluisgastelumibarra@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
 website: https://github.com/r34-car/
 # website_title: Web (Website title override)
 
@@ -26,7 +24,7 @@ dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
 instagram_username: jekyll
-linkedin_username: www.linkedin.com/in/josé-luis-gastelum-ibarra-8164a720b
+linkedin_username: www.linkedin.com/in/josé-luis-gastelum-ibarra-
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
@@ -52,13 +50,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
