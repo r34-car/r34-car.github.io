@@ -19,23 +19,23 @@ darkmode: false
 # Social links
 twitter_username: jekyllrb
 github_username: https://github.com/r34-car/
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
 linkedin_username: www.linkedin.com/in/josé-luis-gastelum-ibarra-
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#orcid_username: 0000-0000-0000-0000
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+  #icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+ # url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,11 +50,14 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+Versatil, me gusta trabajar con bases de datos, tengo conocimientos en postgreSQL y Oracle Database.
+Aprendo rápido.
+
   
 
 
 content:
-  - title: Projects # Title for the section
+  - title: Certificates # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -91,12 +94,12 @@ content:
     content:
       - layout: top-right
         title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        sub_title: Universidad de Guadalajara (Ingenieria en informática)
+        caption: Date Range (2020-...)
         quote: >
-          Short institution or course description (optional)
+          Centro Universitario de Ciencias Excatas e Ingenierias
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Actualmente en 7mo semestre 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
