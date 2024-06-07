@@ -49,10 +49,12 @@ linkedin_username: www.linkedin.com/in/josé-luis-gastelum-ibarra-
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-Versatil, me gusta trabajar con bases de datos, tengo conocimientos en postgreSQL y Oracle Database.
+about_content: Versatil, me gusta trabajar con bases de datos, tengo conocimientos en postgreSQL y Oracle Database.
 Aprendo rápido.
-
+  Eh trabajado de repartidor 1 año para Topnails (material para uñas).
+  Otro año para "PEPENINI's PIZZA". aqui repartia y tambien hacia pizzas.
+  Tambien trabaje en la plancha en un puesto de tacos.
+  En caso de requerir referencias favor de solicitarlas al privado, Gracias
   
 
 
@@ -95,7 +97,7 @@ content:
       - layout: top-right
         title: Institution name
         sub_title: Universidad de Guadalajara (Ingenieria en informática)
-        caption: Date Range (2020-...)
+        caption: Date Range (2020-2024) aun no concluida.
         quote: >
           Centro Universitario de Ciencias Excatas e Ingenierias
         description: | # this will include new lines to allow paragraphs
