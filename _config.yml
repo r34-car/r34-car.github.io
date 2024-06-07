@@ -58,14 +58,12 @@ content:
   - title: Certificates # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      #-layout: left
-      #border: weak  # Value of `weak` will display a weak border below this item. # Any 
+      -layout: left
+      border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        
-          sub_titlte:
-          link: https://drive.google.com/drive/folders/1S7vtyM_gNqEyweo8IHXPOjUeSrn0kZ9m?usp=drive_link
-        #title: Project name
-        #link: 
+     
+        title: Aqui estan todos mis certificados... 
+        link: https://drive.google.com/drive/folders/1S7vtyM_gNqEyweo8IHXPOjUeSrn0kZ9m?usp=drive_link 
         #link_text: Link Text
         #additional_links:
          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
