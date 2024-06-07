@@ -24,7 +24,7 @@ github_username: https://github.com/r34-car/
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: https://www.linkedin.com/in/r34-car
+linkedin_username: https://www.linkedin.com/in/r34-car/
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -61,7 +61,7 @@ content:
       #-layout: left
       #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-      content_image: images/doc1.jpg
+        link: https://drive.google.com/drive/folders/1S7vtyM_gNqEyweo8IHXPOjUeSrn0kZ9m?usp=drive_link
         #title: Project name
         #link: 
         #link_text: Link Text
