@@ -61,7 +61,8 @@ content:
       #-layout: left
       #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        link: https://drive.google.com/drive/folders/1S7vtyM_gNqEyweo8IHXPOjUeSrn0kZ9m?usp=drive_link
+        quote: >
+          link: https://drive.google.com/drive/folders/1S7vtyM_gNqEyweo8IHXPOjUeSrn0kZ9m?usp=drive_link
         #title: Project name
         #link: 
         #link_text: Link Text
@@ -72,7 +73,7 @@ content:
           # title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: >
+        
           #Short overview of the project (optional)
         #description: | # this will include new lines to allow paragraphs
           #Description about the work on/with the project
