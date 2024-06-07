@@ -83,14 +83,26 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Top Nails
+        sub_title: Repartidor
+        caption: Date Range: 2022-2023
+        link: https://maps.app.goo.gl/G3wBi8s184pqGMkP8
         quote: >
-          Short description of the company (optional)
+          En caso de requerir referencias solicitarlas al privado.
         description: | # this will include new lines to allow paragraphs
           Description of role
+        - layout: right
+        title: Tacos de barbacoa el Guero
+        sub_title: Plancha
+        caption: Date Range: 2019-2021
+        link: https://maps.app.goo.gl/dAyjfBs5EuTJXKky5
+        quote: >
+        - layout: right
+        title: Pepenini´s Pizza
+        sub_title: Repartidor y cocinero.
+        caption: Date Range: 2018-2019
+        #link: https://maps.app.goo.gl/G3wBi8s184pqGMkP8
+        #quote: >
   - title: Education
     layout: list
     content:
@@ -98,7 +110,8 @@ content:
         title: Institution name
         sub_title: Universidad de Guadalajara (Ingenieria en informática)
         caption: Date Range (2020-2024) aun no concluida.
-        quote: Centro Universitario de Ciencias Excatas e Ingenierias
+        quote: >
+        Centro Universitario de Ciencias Excatas e Ingenierias
         description: Actualmente en 8vo semestre 
   - title: A Little More About Me
     layout: text
