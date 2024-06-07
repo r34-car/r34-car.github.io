@@ -56,8 +56,8 @@ about_content: Versatil, me gusta trabajar con bases de datos, tengo conocimient
 
 
   - title: Certificates # Title for the section
-      content:
-        title: Aqui estan todos mis certificados
+     
+        quote: >
         link: https://drive.google.com/drive/folders/1S7vtyM_gNqEyweo8IHXPOjUeSrn0kZ9m?usp=drive_link 
         #link_text: Link Text
         #additional_links:
