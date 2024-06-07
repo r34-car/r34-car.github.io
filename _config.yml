@@ -61,7 +61,8 @@ content:
       #-layout: left
       #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        quote: >
+        
+          sub_titlte:
           link: https://drive.google.com/drive/folders/1S7vtyM_gNqEyweo8IHXPOjUeSrn0kZ9m?usp=drive_link
         #title: Project name
         #link: 
