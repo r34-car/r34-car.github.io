@@ -17,7 +17,7 @@ website: https://github.com/r34-car/
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
+#twitter_username: jekyllrb
 github_username: https://github.com/r34-car/
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
@@ -61,7 +61,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-      #content_image: 
+      content_image: images/doc1.jpg
         #title: Project name
         #link: 
         #link_text: Link Text
