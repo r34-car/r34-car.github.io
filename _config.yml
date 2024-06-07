@@ -56,7 +56,7 @@ about_content: Versatil, me gusta trabajar con bases de datos, tengo conocimient
 
 content:
   - title: Certificates # Title for the section
-      -layout: list # Type of content section (list/text)
+      layout: list # Type of content section (list/text)
     content:
       -layout: left
       border: weak  # Value of `weak` will display a weak border below this item. # Any 
