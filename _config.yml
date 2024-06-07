@@ -24,7 +24,7 @@ github_username: https://github.com/r34-car/
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: www.linkedin.com/in/josé-luis-gastelum-ibarra-
+linkedin_username: www.linkedin.com/in/josé-luis-gastelum-ibarra
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -50,7 +50,7 @@ linkedin_username: www.linkedin.com/in/josé-luis-gastelum-ibarra-
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: Versatil, me gusta trabajar con bases de datos, tengo conocimientos en postgreSQL y Oracle Database.
-Aprendo rápido.
+  Aprendo rápido.
   Eh trabajado de repartidor 1 año para Topnails (material para uñas).
   Otro año para "PEPENINI's PIZZA". aqui repartia y tambien hacia pizzas.
   Tambien trabaje en la plancha en un puesto de tacos.
@@ -98,16 +98,11 @@ content:
         title: Institution name
         sub_title: Universidad de Guadalajara (Ingenieria en informática)
         caption: Date Range (2020-2024) aun no concluida.
-        quote: >
-          Centro Universitario de Ciencias Excatas e Ingenierias
-        description: | # this will include new lines to allow paragraphs
-          Actualmente en 7mo semestre 
+        quote: >Centro Universitario de Ciencias Excatas e Ingenierias
+        description: Actualmente en 8vo semestre 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+    content: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 # Footer
 footer_show_references: true
