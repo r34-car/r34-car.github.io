@@ -87,18 +87,6 @@ content:
           En caso de requerir referencias solicitarlas al privado.
         description: | # this will include new lines to allow paragraphs
           Description of role
-        - layout: right
-        title: Tacos de barbacoa el Guero
-        sub_title: Plancha
-        caption: Date Range: (2019 2021)
-        link: https://maps.app.goo.gl/dAyjfBs5EuTJXKky5
-        quote: >
-        - layout: right
-        title: Pepeninis Pizza
-        sub_title: Repartidor y cocinero.
-        caption: Date Range: (2018 2019)
-        #link: https://maps.app.goo.gl/G3wBi8s184pqGMkP8
-        #quote: >
   - title: Education
     layout: list
     content:
